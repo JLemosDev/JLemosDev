@@ -29,6 +29,22 @@ Protótipo de landing page para apresentar uma proposta de divulgação do comé
 **Tecnologias:** HTML · CSS · JavaScript  
 **Estágio:** protótipo de interface; a API aparece como proposta de evolução.
 
+### [Agenda Local — Agendamentos para pequenos negócios](https://github.com/JLemosDev/agenda-local)
+
+Aplicação web com serviços, profissionais, horários disponíveis e reservas persistidas. Cada visitante utiliza uma demonstração separada, com dados fictícios.
+
+**[Abrir a demonstração pública](https://agenda-local-jlemosdev.vlogsegames26.chatgpt.site/)**
+
+**Tecnologias:** React · TypeScript · SQLite/D1 · Drizzle  
+**Contexto:** projeto de portfólio desenvolvido com assistência de IA; código, imagens e instruções disponíveis no repositório.
+
+### [Pedidos & Estoque — Gestão de uma pequena loja](https://github.com/JLemosDev/pedidos-estoque)
+
+Interface web para cadastrar produtos, repor estoque e criar, confirmar ou cancelar pedidos. As operações registram movimentações e preservam a consistência do estoque, com testes de transações e concorrência.
+
+**Tecnologias:** Java 21 · Spring Boot · JPA · Flyway · H2 · JUnit  
+**Contexto:** projeto de portfólio desenvolvido com assistência de IA e dados fictícios. Publicado como código no GitHub, para execução local.
+
 ## Tecnologias que venho aplicando
 
 | Área | Tecnologias e conceitos |
@@ -47,4 +63,5 @@ Tenho interesse em oportunidades de estágio ou desenvolvimento júnior e em pro
 **Contato:** [lemosjoaovitorlemos@gmail.com](mailto:lemosjoaovitorlemos@gmail.com)
 
 Se você tem uma oportunidade ou uma ideia de projeto, envie uma mensagem com o objetivo e o escopo para conversarmos.
+
 
